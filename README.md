@@ -77,14 +77,18 @@
 
 ---
 
+
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tejas-kumar-b51952293/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Tejas%20Kumar-blue?style=for-the-badge&logo=linkedin" />
+   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tejaskr.584@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tejaskr.584%40gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Tejaskr-584" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
