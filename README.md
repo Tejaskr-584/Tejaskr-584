@@ -2,7 +2,7 @@
 <h3 align="center">🚀  ECE Student | AI & ML Learner | OpenEnv | Python/C/C++ | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Problem+Solver+%26+Builder;OpenEnv+%26+AI+Agent+Builder;Hackathon+Finalist;Turning+Ideas+into+Real+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Problem+Solver+%26+Builder;Turning+Ideas+into+Real+Projects" />
 </p>
 
 ---
